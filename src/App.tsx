@@ -545,7 +545,7 @@ export default function App() {
       {/* Footer */}
       <footer className="relative bg-white/40 backdrop-blur-md border-t border-slate-200 py-3 md:py-4 px-8 flex flex-col md:flex-row justify-between items-center text-[10px] md:text-[11px] text-slate-400 font-medium z-[60] mt-auto">
         <div className="flex gap-4 mb-2 md:mb-0">
-          <span>© 2026 ASPRIKU AI</span>
+          <span>© 2026 ASPRIKU</span>
           <span className="flex items-center gap-1"><div className="w-1.5 h-1.5 bg-green-500 rounded-full"></div> System Online</span>
         </div>
         <div className="flex gap-4 md:gap-6">
